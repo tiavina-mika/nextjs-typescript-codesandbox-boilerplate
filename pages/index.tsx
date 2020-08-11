@@ -4,7 +4,7 @@ export default function Index() {
   return (
     <div>
       <h1>
-        Hello There! 
+        Hello There!!
       </h1>
     </div>
   );
